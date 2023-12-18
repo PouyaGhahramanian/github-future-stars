@@ -3,6 +3,14 @@
 
 This repository contains the implementation of our predictive model (`StarHub`) for GitHub repository popularity in the future using PyTorch and the Transformers library. It also includes an additional `Featurehub` model that predicts the popularity of a repository by using only the meta-data of that repository.
 
+This project is our final project for the **Bilkent CS 588: Data Science for Software Engineering** Course. We extend our gratitude to **Professor Eray Tüzün** for his invaluable guidance and to our Teaching Assistant, **Muhammad Umair Ahmed**, for his insightful comments and support throughout all stages of the project.
+
+**Group 8, Members**:
+- Sepehr Bakhshi
+- Pouya Ghahramanian
+- Mehmet Kadri Gofralilar
+- Kousar Kousar
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -165,18 +173,6 @@ The initial test MSE for Featurehub suggested overfitting. To mitigate this, an 
 - The Featurehub model initially showed signs of overfitting. However, with early stopping at 5 epochs, the test MSE improved, indicating better generalization.
 - The training plots for both models further clarify their learning behaviors during the training process.
 
-
-### Contributors
-
-#### Group Members
-- Sepehr Bakhshi
-- Pouya Ghahramanian
-- Mehmet Kadri Gofralilar
-- Kousar Kousar
-
-### Acknowledgements
-
-This project is our final project for the Bilkent CS 588: Data Science for Software Engineering Course. We extend our gratitude to Professor Eray Tüzün for his invaluable guidance and to our Teaching Assistant, Muhammad Umair Ahmed, for his insightful comments and support throughout all stages of the project.
 
 
 
