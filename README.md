@@ -1,5 +1,6 @@
 # github-future-stars
-Forecasting Future Stars: A Predictive Model For GitHub Repository Popularity
+**Forecasting Future Stars**: A Predictive Model For GitHub Repository Popularity
+
 This repository contains the implementation of our predictive model (`StarHub`) for GitHub repository popularity in the future using PyTorch and the Transformers library. It also includes an additional `Featurehub` model that predicts the popularity of a repository by using only the meta-data of that repository.
 
 ## Table of Contents
