@@ -128,6 +128,9 @@ The dataset used in our project consists of GitHub repository data spanning over
 ##### Future Stars Distribution
 ![Future Stars Distribution Plot](/figs/future_stars_distribution.jpg)
 
+#### Dataset Download Link
+Our dataset is available on Google Drive from [this link](https://drive.google.com/file/d/1Z5zCa00LKEbEdqNtDrrrE1sGGsx1A5Ia/view?usp=sharing).
+
 ### Running Experiments
 
 Use `main.py` to run experiments. To execute the script, run the following command in your terminal:
