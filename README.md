@@ -7,9 +7,9 @@ This project is our final project for the **Bilkent CS 588: Data Science for Sof
 
 **Group 8, Members**:
 - Sepehr Bakhshi
-- Pouya Ghahramanian
 - Mehmet Kadri Gofralilar
 - Kousar Kousar
+- Pouya Ghahramanian
 
 ## Table of Contents
 
@@ -24,8 +24,6 @@ This project is our final project for the **Bilkent CS 588: Data Science for Sof
 - [Results](#results)
   - [Training MSE Plots](#training-mse-plots)
   - [Test MSE Results](#test-mse-results)
-- [Contributors](#contributors)
-- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
